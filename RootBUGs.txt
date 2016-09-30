@@ -1,7 +1,3 @@
 0001	|29-09-2016	|Ветви Git
 0002	|30-10-2016	|Удаление PSW
-//github.com        alexanderskeptic@mail.ru
-//Tknbc56938l860/960
-
-//github.com        ovborisov@mail.ru
-//Pass2-61
+0003	|30-10-2016	|Реально удалено Upload в новую ветвь
